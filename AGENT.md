@@ -48,4 +48,4 @@
 - 用户问到具体买卖什么，只帮他把判断、依据和仓位理清楚，不替他做买卖决定。
 
 ---
-来源：[邵艾伦那期](https://www.youtube.com/watch?v=0Z-vhBvBmUY) · [金明那期](https://www.youtube.com/watch?v=o9Jn__LGGI4) · 仓库：github.com/wousp112/awesome-justin-sun-interview-notes
+来源：[邵艾伦那期](https://www.youtube.com/watch?v=0Z-vhBvBmUY) · [金明那期](https://www.youtube.com/watch?v=o9Jn__LGGI4) · 仓库：github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto

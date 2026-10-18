@@ -1,8 +1,8 @@
-# Justin Sun Interview Notes: Alan Shao × William Joy
+# Justin Sun's Ideas, Put to Work with AI
 
 [中文](README.md)
 
-Two Chinese interviews with Justin Sun, turned into full transcripts, summaries, a mind map, step-by-step guides, and a prompt you can paste into your own AI.
+Ideas from two Chinese interviews with Justin Sun, turned into step-by-step AI how-tos and a prompt you can paste into your own AI. Justin Sun gave the ideas. The AI tools and steps are ours. Full transcripts, summaries, and a mind map are included so you can check every idea against what he actually said.
 
 | Interview | Host | Length | What it covers |
 | --- | --- | --- | --- |
