@@ -1,0 +1,25 @@
+name: 纠错
+description: 原话、时间点、链接或价格不对
+title: "纠错 "
+body:
+  - type: input
+    id: file
+    attributes:
+      label: 哪个文件
+      placeholder: 比如 邵艾伦/guides/01-生活AI化.md
+    validations:
+      required: true
+  - type: textarea
+    id: wrong
+    attributes:
+      label: 现在写的是什么
+      description: 把那一句复制过来就行。
+    validations:
+      required: true
+  - type: textarea
+    id: right
+    attributes:
+      label: 应该是什么
+      description: 原话和时间点的问题，附上视频里的时间。价格的问题，附上官网链接。
+    validations:
+      required: true

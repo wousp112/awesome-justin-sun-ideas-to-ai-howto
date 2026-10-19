@@ -1,0 +1,50 @@
+name: 检查
+
+on:
+  push:
+  pull_request:
+  schedule:
+    - cron: "0 2 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  links:
+    name: 链接能不能打开
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: lycheeverse/lychee-action@v2.9.0
+        with:
+          args: >-
+            --no-progress
+            --accept '200..=299,403,429'
+            --exclude 'youtube\.com|youtu\.be|x\.com|twitter\.com'
+            '**/*.md'
+          fail: true
+
+  text:
+    name: 文字和 skill
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 不用的写法
+        run: |
+          files=$(git -c core.quotepath=off ls-files '*.md' | grep -v '全文.md' | grep -v 'CONTRIBUTING.md')
+          bad=0
+          for p in '；' '——' '不是[^，。！？]{0,20}而是' '值得注意' '说白了' '\*\*'; do
+            if echo "$files" | xargs -d '\n' grep -nE "$p"; then bad=1; fi
+          done
+          if [ "$bad" = 1 ]; then echo "上面这些行用了 CONTRIBUTING.md 里说不用的写法"; exit 1; fi
+      - name: skill 和 AGENT.md 一致
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          skill = Path("skills/justin-sun-ideas/SKILL.md").read_text(encoding="utf-8")
+          body = skill.split("\n---\n", 1)[1].lstrip("\n")
+          if body != Path("AGENT.md").read_text(encoding="utf-8"):
+              raise SystemExit("skills/justin-sun-ideas/SKILL.md 的正文和 AGENT.md 不一样，改了一个要同步另一个")
+          print("一致")
+          PY

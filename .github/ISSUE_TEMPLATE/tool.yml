@@ -1,0 +1,37 @@
+name: 推荐工具
+description: 推荐一个能放进教程的工具
+title: "推荐工具 "
+body:
+  - type: input
+    id: name
+    attributes:
+      label: 工具名字和官网
+    validations:
+      required: true
+  - type: input
+    id: guide
+    attributes:
+      label: 对应哪一篇、哪一步
+      placeholder: 比如 09 机器读得懂，第 3 步转换 PDF
+    validations:
+      required: true
+  - type: input
+    id: price
+    attributes:
+      label: 多少钱
+  - type: dropdown
+    id: cn
+    attributes:
+      label: 国内能直接用吗
+      options:
+        - 能
+        - 部分能
+        - 不能
+        - 不清楚
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: 为什么推荐它
+      description: 你自己用过的话，说说用来做什么、效果怎么样。
