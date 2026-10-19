@@ -21,4 +21,4 @@ Ideas from two Chinese interviews with Justin Sun, turned into step-by-step AI h
 
 Both transcripts were made with Gemini and spot-checked against the audio. Check names and exact quotes against the video before you cite them. Justin Sun's views and positions in the second interview are his own. The guides teach you to record and review your own judgments, not what to buy or sell.
 
-License: the summaries, guides, AGENT.md, the skill, the templates, and the mind map are CC BY 4.0. The interviews belong to their original creators. See [LICENSE](LICENSE).
+License: everything except the two transcripts is CC BY 4.0. The interviews belong to their original creators. See [LICENSE](LICENSE).

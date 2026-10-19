@@ -10,7 +10,7 @@
 | --- | --- |
 | 让 AI 出主意 | 把 [AGENT.md](AGENT.md) 复制给你的 AI，再说说你的情况 |
 | 看原话 | [邵艾伦那期全文](邵艾伦/全文.md)、[金明那期全文](金明/全文.md)，带时间戳，可以直接丢给 AI |
-| 自己动手 | 先看 [00 准备](邵艾伦/guides/00-准备.md) 装好 AI，再从下面挑一篇 |
+| 自己动手 | 先看 [00 准备](邵艾伦/guides/00-准备.md) 装好 AI，再挑一篇，比如[让 AI 每天替你写日报](邵艾伦/guides/01-生活AI化.md) |
 | 只看重点 | [邵艾伦那期精华](邵艾伦/精华.md)、[金明那期精华](金明/精华.md) |
 | 装成 skill | 一行命令装进 Claude Code、Codex，见[下面](#装进你的-ai) |
 | 一张图看完 | [思维导图](思维导图.md) |
@@ -112,8 +112,8 @@ npx skills add wousp112/awesome-justin-sun-ideas-to-ai-howto
 
 ## 一起改
 
-原话、时间点、链接或价格哪里不对，或者想推荐工具，看 [CONTRIBUTING](CONTRIBUTING.md)。每次改了什么，记在 [CHANGELOG](CHANGELOG.md)。
+哪里写错了，或者想推荐工具，看 [CONTRIBUTING](CONTRIBUTING.md)。每次改了什么，记在 [CHANGELOG](CHANGELOG.md)。
 
 ## 授权
 
-精华、教程、AGENT.md、skill、模板和思维导图随便用，注明出处就行。访谈内容版权归原作者。详见 [LICENSE](LICENSE)。
+除了两期全文，仓库里我们写的东西都随便用，注明出处就行。访谈内容版权归原作者。详见 [LICENSE](LICENSE)。
