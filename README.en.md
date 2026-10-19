@@ -2,7 +2,7 @@
 
 [中文](README.md)
 
-Ideas from two Chinese interviews with Justin Sun, turned into step-by-step AI how-tos and a prompt you can paste into your own AI. Justin Sun gave the ideas. The AI tools and steps are ours. Full transcripts, summaries, and a mind map are included so you can check every idea against what he actually said.
+Ideas from two Chinese interviews with Justin Sun, turned into step-by-step AI how-tos and a prompt you can paste into your own AI. We added the tools and the steps ourselves, because the interviews stay at the level of ideas. Full transcripts, summaries, and a mind map are included so you can check every idea against what he actually said.
 
 | Interview | Host | Length | What it covers |
 | --- | --- | --- | --- |

@@ -10,6 +10,7 @@
 - AGENT.md 可以装成 skill 了，`npx skills add wousp112/awesome-justin-sun-ideas-to-ai-howto`。
 - 00 准备加了「卡住了怎么办」，各篇教程补了出错时怎么办、怎样算做成了。
 - 新增 [CONTRIBUTING](CONTRIBUTING.md)，写了报错、推荐工具的方法和这个仓库的写法。
+- 全仓库又去了一轮 AI 味，改掉了对称句、篇篇一样的开头和结尾，还有每篇都重复的那句工具总表提示。
 
 ## 2026-10-18
 

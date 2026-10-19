@@ -7,7 +7,7 @@
 
 孙宇晨觉得字节能一直抢在前面，靠的就是 small ego，有新东西就学，有新东西就干。small ego 就是不管多成功，都愿意听新东西，照着证据改主意。ego 大了，就会被时代甩下。
 
-这一条没什么工具可买。下面是几个逼自己把反对意见听进去的小办法，挑顺手的用。
+这一条没什么工具可买，下面是几个逼自己把反对意见听进去的小办法。
 
 ## 怎么做
 
@@ -27,8 +27,6 @@
 | 团队复盘模板 | [Atlassian Retrospective](https://www.atlassian.com/team-playbook/plays/retrospective) | 搬到飞书文档 |
 | 匿名收集意见 | Google Forms | 腾讯问卷、飞书表单 |
 | 找圈外的人聊 | [ADPList](https://adplist.org) | 即刻、V2EX |
-
-价格和国内能不能直接用，以[工具总表](../../工具总表.md)为准。
 
 ## 让 AI 帮你搭
 
