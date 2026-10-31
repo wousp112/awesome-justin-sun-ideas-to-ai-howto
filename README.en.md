@@ -1,8 +1,36 @@
-<p align="center"><img src="assets/cover.png" width="720" alt="Sun Xue, zero-cost install"></p>
+<p align="center">
+  <a href="前言.md">
+    <img src="assets/cover.png" width="600"></a>
+</p>
 
-# Sun Xue, Zero-Cost Install
+<p align="center">
+  <img style="height: 60px;" src="https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&duration=3500&pause=2000&color=1D1D1F&center=true&vCenter=true&random=false&width=360&lines=Sun+Xue%2C+Zero-Cost+Install" alt="Sun Xue, Zero-Cost Install" />
+  </br>
+  AI how-tos built on Justin Sun's own words, with real results you can reproduce
+</p>
 
-[中文](README.md)
+<p align="center">
+  <a href="前言.md">
+    <img src="assets/btn_read_en.svg" height="45"></a>
+  <a href="前言.md#装进-agent">
+    <img src="assets/btn_agent_en.svg" height="45"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-snow?logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-snow?logo=openai&logoColor=000000" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini%20CLI-snow?logo=googlegemini&logoColor=8E75B2" alt="Gemini CLI" />
+  <img src="https://img.shields.io/badge/Kimi%20Code-snow" alt="Kimi Code" />
+  <img src="https://img.shields.io/badge/Qwen%20Code-snow" alt="Qwen Code" />
+</p>
+
+<p align="center">
+  <a href="README.md">简体中文</a>
+  ｜
+  English
+</p>
+
+## About this book
 
 "Sun Xue" is what Justin Sun calls his own way of thinking. He says its best feature is that it installs at zero cost, like distilling a skill into an AI. This repo takes the ideas from two Chinese interviews with him and turns them into step-by-step AI how-tos and a prompt you can paste into your own AI. Full transcripts, summaries, and a mind map are included so you can check every idea against what he actually said.
 

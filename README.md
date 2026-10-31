@@ -1,129 +1,67 @@
 <p align="center">
-  <img src="assets/cover.png" width="720" alt="孙学，零成本安装">
+  <a href="前言.md">
+    <img src="assets/cover.png" width="600"></a>
 </p>
 
 <p align="center">
-从装第一个 AI 讲起，每个工具都有国内能用的版本。
+  <img style="height: 60px;" src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&duration=3500&pause=2000&color=1D1D1F&center=true&vCenter=true&random=false&width=320&lines=%E5%AD%99%E5%AD%A6%EF%BC%8C%E9%9B%B6%E6%88%90%E6%9C%AC%E5%AE%89%E8%A3%85" alt="孙学，零成本安装" />
+  </br>
+  原话可查、照着做就有结果的 AI 落地教程
 </p>
 
 <p align="center">
-  <a href="邵艾伦/guides/00-准备.md">从零开始</a> ·
-  <a href="#装进-agent">装进 Agent</a> ·
-  <a href="#教程">23 篇教程</a> ·
-  <a href="#原话">访谈全文</a> ·
+  <a href="前言.md">
+    <img src="assets/btn_read.svg" height="45"></a>
+  <a href="前言.md#装进-agent">
+    <img src="assets/btn_agent.svg" height="45"></a>
+</p>
+
+<p align="center">
+  <a href="邵艾伦/guides/01-生活AI化.md"><img src="assets/demo1.png" width="395"></a>
+  <a href="邵艾伦/guides/04-百分之百相信AI.md"><img src="assets/demo2.png" width="395"></a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude%20Code-snow?logo=claude&logoColor=D97757" alt="Claude Code" />
+  <img src="https://img.shields.io/badge/Codex-snow?logo=openai&logoColor=000000" alt="Codex" />
+  <img src="https://img.shields.io/badge/Gemini%20CLI-snow?logo=googlegemini&logoColor=8E75B2" alt="Gemini CLI" />
+  <img src="https://img.shields.io/badge/Kimi%20Code-snow" alt="Kimi Code" />
+  <img src="https://img.shields.io/badge/Qwen%20Code-snow" alt="Qwen Code" />
+</p>
+
+<p align="center">
+  简体中文
+  ｜
   <a href="README.en.md">English</a>
 </p>
 
-> 孙学最合适的一点就是零成本安装……就跟 AI 一样，这个 skill 就直接蒸馏。
->
-> 孙宇晨，[金明访谈 25:41](https://www.youtube.com/watch?v=o9Jn__LGGI4&t=1541s)
+## 关于本书
 
-## 装进 Agent
+本项目旨在把孙宇晨两期访谈里能动手的观点，做成一本照着就能做的 AI 入门教程。
 
-用 Claude Code、Codex 这类 Agent 的，一行命令：
+- 两期访谈都转成了带时间戳的全文，每个观点都能点回视频里的原话。
+- 每篇教程配一段写给 AI 的话，复制给 Agent 它就照着做，也有一步步的手动做法。
+- 示例结果都是照提示词真跑出来的，每个工具都有国内能直接用的版本。
 
-```bash
-npx skills add wousp112/awesome-justin-sun-ideas-to-ai-howto
-```
+若本书对你有帮助，请在页面右上角点个 Star :star: 支持一下，谢谢！
 
-装好以后，说「按孙宇晨的思路帮我想想」，它会问你的情况，给两三条路和一个能反悔的小实验。
+## 贡献
 
-<details>
-<summary>没装 Node.js，或者用网页版 AI</summary>
+本书仍在持续更新，欢迎你参与，一起把内容改得更准。
 
-把 [AGENT.md](AGENT.md) 整个复制给它，再说你的情况。能上网的 AI，直接让它读：
+- [内容修正](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto/issues/new?template=correction.yml)：原话、时间点、链接或价格不对，请指出来。
+- [推荐工具](https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto/issues/new?template=tool.yml)：写清它对应哪篇教程的哪一步、多少钱、国内能不能用。
 
-```
-https://raw.githubusercontent.com/wousp112/awesome-justin-sun-ideas-to-ai-howto/main/AGENT.md
-```
+写法和提交方式见 [CONTRIBUTING](CONTRIBUTING.md)，每次改了什么记在 [CHANGELOG](CHANGELOG.md)。
 
-</details>
+感谢本书的每一位撰稿人：
 
-<details>
-<summary>看一次真实回答</summary>
+<p align="left">
+    <a href="https://github.com/wousp112/awesome-justin-sun-ideas-to-ai-howto/graphs/contributors">
+        <img src="https://contrib.rocks/image?repo=wousp112/awesome-justin-sun-ideas-to-ai-howto" />
+    </a>
+</p>
 
+## License
 
-把 AGENT.md 发给一个全新的 Codex 会话，接着问：「我自由职业接设计单，收入不稳定，想试试接海外客户，英语一般。」下面是它的回答。
-
-建议先用你最熟悉的一类设计服务，试接一个范围小的海外项目。你要决定的是从哪里找到第一位海外客户，同时控制试错成本。现在最卡你的是收入不稳定、英语一般，还不适合投入太多钱。
-
-| 路径 | 要做什么 | 能得到什么 | 最大的不确定 |
-|---|---|---|---|
-| 请熟人介绍海外客户 | 找合作过的客户或同行，询问有没有海外项目需要设计 | 有人介绍，沟通更容易建立信任 | 现有人脉有没有这类需求 |
-| 给海外设计师或小工作室做协作 | 用一项明确的设计服务承接部分工作 | 可以先验证交付能力，减少独立获客的负担 | 对方的报价和修改要求是否合适 |
-| 直接找海外终端客户 | 围绕一种客户需求整理案例，再针对性联系 | 能直接了解客户需求，积累自己的客户 | 获客和英语沟通都需要自己承担 |
-
-我优先推荐第二条：给海外设计师或小工作室做协作。这是根据你当前情况做的判断。你已有接单经验，可以先测试这些经验能否迁移。如果你已经有能介绍海外客户的熟人，第一条更值得先做。
-
-英语先围绕具体工作准备：能确认需求、解释方案、谈清修改范围。让 AI 帮你写邮件和检查表达，每次发出前确认自己理解其中的交付承诺。
-
-可以先做一个小实验，联系数量按你能投入的时间来定，暂时不买广告或订阅新工具：
-
-- 做什么：选你做得最熟、修改最容易控制的一项服务。整理一份简短英文案例，写清客户的问题、你负责的工作，以及最后交付了什么。随后找业务匹配的海外工作室，逐个联系。
-- 产出什么：一份英文案例、一段介绍服务的话，以及真实的客户回复记录。目标是争取一个付费小单，提前写清交付内容和修改次数。
-- 什么结果值得继续：对方愿意提供具体需求、讨论报价。实际交付后，扣掉沟通和修改时间，报酬仍达到你愿意接受的水平。
-- 什么结果需要调整：有人回复却始终不谈项目，就检查服务是否足够具体。拿到项目却修改失控，就收窄范围或调整报价。没有回复时，先检查联系对象和案例匹配度，单凭沉默还不能判断海外接单不适合你。
-
-这里用了邵艾伦那期的「商机全球找」和「先探路，再下注」。观点来自你提供的访谈摘要。选择工作室协作和付费小单，是我根据你的情况设计的方案。
-
-现在第一步：挑出一个你最想再做一次、也最有把握交付的过往项目。你主要接哪类设计？每周能拿出多少时间，最多愿意投入多少钱试海外接单？
-
-</details>
-
-## 教程
-
-第一次用 AI，先看 [00 装一个能动你电脑的 AI](邵艾伦/guides/00-准备.md)。后面每篇单独能看，顺序随意。
-
-### 邵艾伦那期 · [4 小时 22 分钟](https://www.youtube.com/watch?v=0Z-vhBvBmUY)
-
-| | 观点 | 做完你会有 |
-| --- | --- | --- |
-| 01 | [把生活 AI 化](邵艾伦/guides/01-生活AI化.md) | 一个文件夹，AI 每天读它写一份日报 |
-| 02 | [没钱也能开始](邵艾伦/guides/02-没钱也能开始.md) | 一件重复的事，交给免费额度的 AI 去做 |
-| 03 | [先升级操作系统](邵艾伦/guides/03-升级操作系统.md) | 一个写下来的看法，和支持、反对它的资料 |
-| 04 | [百分之百相信 AI](邵艾伦/guides/04-百分之百相信AI.md) | 三个模型对同一个问题的回答，放在一张表里 |
-| 05 | [商机全球找](邵艾伦/guides/05-商机全球找.md) | 一个海外用户反复抱怨的问题，和一页解决方案 |
-| 06 | [先探路，再下注](邵艾伦/guides/06-先探路再下注.md) | 一张候选对比表，和第一个要试的 |
-| 07 | [身体是本钱](邵艾伦/guides/07-身体是本钱.md) | 手环数据接给 AI，它帮你盯趋势 |
-| 08 | [逐水草而居](邵艾伦/guides/08-逐水草而居.md) | 你这行的机会大多在哪几个城市 |
-| 09 | [机器读得懂才值钱](邵艾伦/guides/09-机器读得懂.md) | 常用资料都转成 AI 能读的 Markdown |
-| 10 | [内容和投资不用二选一](邵艾伦/guides/10-内容和投资.md) | 两个文件夹，内容和投资分开记 |
-| 11 | [Small ego](邵艾伦/guides/11-small-ego.md) | 一个站在反对者那边的 AI |
-| 12 | [先自由，后财富](邵艾伦/guides/12-先自由后财富.md) | 算清楚的缓冲金 |
-| 13 | [游戏版本会更新](邵艾伦/guides/13-游戏版本更新.md) | 几个一手信息源，AI 帮你看变化 |
-| 14 | [缺啥补啥](邵艾伦/guides/14-缺啥补啥.md) | 一份按真实格式做的模拟交付物，和你最大的缺口 |
-| 15 | [多创造，少消费](邵艾伦/guides/15-多创造少消费.md) | 一篇发出去的教程 |
-
-### 金明那期 · [47 分钟](https://www.youtube.com/watch?v=o9Jn__LGGI4)
-
-这期一半在聊仓位和市场，判断都是孙宇晨自己的。教程只管记录、研究和复盘，买卖自己拿主意。
-
-| | 观点 | 做完你会有 |
-| --- | --- | --- |
-| 01 | [从不关注到密切关注](金明/guides/01-密切关注.md) | 一件长期风险的几个信号，和订阅好的一手来源 |
-| 02 | [把币放进没签过名的地址](金明/guides/02-币进掩体.md) | 知道自己哪些地址暴露了公钥 |
-| 03 | [看空也不急着做空](金明/guides/03-判断日志.md) | 分开记的判断和仓位，隔一阵对答案 |
-| 04 | [健康管理先埋点](金明/guides/04-健康先埋点.md) | 一张体检指标表，带着问题去见医生 |
-| 05 | [零成本安装](金明/guides/05-零成本安装.md) | 一套你自己的方法，装成 AI 的 skill |
-| 06 | [让机器来验证](金明/guides/06-让机器验证.md) | 一个 AI 写、机器验过的 Lean 证明 |
-| 07 | [从数据里找 AI 应用](金明/guides/07-从数据找应用.md) | 一个采了没人用的数据，和能拿它做的事 |
-| 08 | [盘点你的老登和新登](金明/guides/08-老登和新登.md) | 一张你的钱、技能和信息源的盘点表 |
-
-每篇用到的工具，价格和国内能不能用，都在[工具总表](工具总表.md)。要记的东西，[模板](模板/README.md)里有现成的格式。
-
-## 原话
-
-| | 全文 | 精华 |
-| --- | --- | --- |
-| 邵艾伦那期 | [全文](邵艾伦/全文.md) | [精华](邵艾伦/精华.md) |
-| 金明那期 | [全文](金明/全文.md) | [精华](金明/精华.md) |
-
-全文每句带时间，点时间跳到视频那一段，也能整份丢给 AI。全文没有逐句人工听校，引用前最好回看视频。[全文怎么做的](全文说明.md)
-
-![孙宇晨两期访谈思维导图](思维导图.png)
-
-## 一起改
-
-哪里写错了，或者想推荐工具，看 [CONTRIBUTING](CONTRIBUTING.md)。改动记在 [CHANGELOG](CHANGELOG.md)。
-
-除了两期全文，这里的内容都按 [CC BY 4.0](LICENSE) 授权，注明出处就能用。访谈内容版权归原作者。
+除两期 `全文.md` 外，本仓库的文字、图片和提示词采用 [CC BY 4.0](LICENSE) 授权。访谈内容版权归原作者。

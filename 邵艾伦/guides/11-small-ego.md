@@ -1,4 +1,4 @@
-# 11 Small ego
+# 1.11 Small ego
 
 > 「就不管张一鸣多成功，他永远是什么？就是愿意去听年轻人讲什么，愿意去学什么东西好。」
 > 「你越有钱越成功，其实理应来说你的这个 ego 应该更小才对。」
@@ -53,3 +53,7 @@
 | 团队复盘模板 | [Atlassian Retrospective](https://www.atlassian.com/team-playbook/plays/retrospective) | 搬到飞书文档 |
 | 匿名收集意见 | Google Forms | 腾讯问卷、飞书表单 |
 | 找圈外的人聊 | [ADPList](https://adplist.org) | 即刻、V2EX |
+
+---
+
+<p align="center"><a href="10-内容和投资.md">← 1.10 内容和投资不用二选一</a> ｜ <a href="../../前言.md#目录">目录</a> ｜ <a href="12-先自由后财富.md">1.12 先自由，后财富 →</a></p>
