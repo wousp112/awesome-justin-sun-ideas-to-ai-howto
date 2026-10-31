@@ -1,8 +1,10 @@
-# Justin Sun's Ideas, Put to Work with AI
+<p align="center"><img src="assets/cover.png" width="720" alt="Sun Xue, zero-cost install"></p>
+
+# Sun Xue, Zero-Cost Install
 
 [中文](README.md)
 
-Ideas from two Chinese interviews with Justin Sun, turned into step-by-step AI how-tos and a prompt you can paste into your own AI. We added the tools and the steps ourselves, because the interviews stay at the level of ideas. Full transcripts, summaries, and a mind map are included so you can check every idea against what he actually said.
+"Sun Xue" is what Justin Sun calls his own way of thinking. He says its best feature is that it installs at zero cost, like distilling a skill into an AI. This repo takes the ideas from two Chinese interviews with him and turns them into step-by-step AI how-tos and a prompt you can paste into your own AI. Full transcripts, summaries, and a mind map are included so you can check every idea against what he actually said.
 
 | Interview | Host | Length | What it covers |
 | --- | --- | --- | --- |
