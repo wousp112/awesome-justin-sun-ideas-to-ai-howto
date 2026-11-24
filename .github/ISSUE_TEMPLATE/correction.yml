@@ -6,7 +6,7 @@ body:
     id: file
     attributes:
       label: 哪个文件
-      placeholder: 比如 邵艾伦/guides/01-生活AI化.md
+      placeholder: 比如 第1章/生活AI化.md
     validations:
       required: true
   - type: textarea
