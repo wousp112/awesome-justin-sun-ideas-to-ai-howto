@@ -1,19 +1,19 @@
 <p align="center">
   <a href="前言.md">
-    <img src="assets/cover.png" width="600" alt="Sun Xue, Zero-Cost Install"></a>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cover_dark.png"><img src="assets/cover.png" width="600" alt="Sun Xue, Zero-Cost Install"></picture></a>
 </p>
 
-<h1 align="center">Sun Xue, Zero-Cost Install</h1>
-
 <p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=26&duration=3500&pause=2000&color=E0AE45&center=true&vCenter=true&random=false&width=460&height=60&lines=Sun+Xue%2C+Zero-Cost+Install"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=26&duration=3500&pause=2000&color=B07A10&center=true&vCenter=true&random=false&width=460&height=60&lines=Sun+Xue%2C+Zero-Cost+Install" alt="Sun Xue, Zero-Cost Install" /></picture>
+  </br>
   High-ROI AI how-tos built on Justin Sun's own words, with source timestamps and practical results
 </p>
 
 <p align="center">
   <a href="前言.md">
-    <img src="assets/btn_read_en.svg" height="45" alt="Start Reading"></a>
+    <img src="assets/btn_read_en.svg" height="45" alt="Start reading"></a>
   <a href="前言.md#装进-agent">
-    <img src="assets/btn_agent_en.svg" height="45" alt="Install to Agent"></a>
+    <img src="assets/btn_agent_en.svg" height="45" alt="Install skill"></a>
 </p>
 
 <p align="center">

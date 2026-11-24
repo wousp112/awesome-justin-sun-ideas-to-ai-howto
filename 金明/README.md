@@ -1,7 +1,7 @@
 # 第 2 章　金明那期
 
 <p align="center">
-  <img src="../assets/covers/chapter_jin.jpg" width="360">
+  <img src="../assets/covers/chapter_jin.jpg" width="360" alt="第 2 章 金明那期">
 </p>
 
 > 我最缺对于 AI 的理解和应用……这个还是我们这个时代最稀缺的东西。

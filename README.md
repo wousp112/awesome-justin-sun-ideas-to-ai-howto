@@ -1,11 +1,11 @@
 <p align="center">
   <a href="前言.md">
-    <img src="assets/cover.png" width="600" alt="孙学，零成本安装"></a>
+    <picture><source media="(prefers-color-scheme: dark)" srcset="assets/cover_dark.png"><img src="assets/cover.png" width="600" alt="孙学，零成本安装"></picture></a>
 </p>
 
-<h1 align="center">孙学，零成本安装</h1>
-
 <p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=26&duration=3500&pause=2000&color=E0AE45&center=true&vCenter=true&random=false&width=380&height=60&lines=%E5%AD%99%E5%AD%A6%EF%BC%8C%E9%9B%B6%E6%88%90%E6%9C%AC%E5%AE%89%E8%A3%85"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=500&size=26&duration=3500&pause=2000&color=B07A10&center=true&vCenter=true&random=false&width=380&height=60&lines=%E5%AD%99%E5%AD%A6%EF%BC%8C%E9%9B%B6%E6%88%90%E6%9C%AC%E5%AE%89%E8%A3%85" alt="孙学，零成本安装" /></picture>
+  </br>
   原话可查、照着做就有结果的 AI 高 ROI 实战手册
 </p>
 
@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="邵艾伦/guides/01-生活AI化.md"><img src="assets/demo1.png" width="395" alt="生活 AI 化示例"></a>
-  <a href="邵艾伦/guides/04-百分之百相信AI.md"><img src="assets/demo2.png" width="395" alt="多模型对比示例"></a>
+  <a href="邵艾伦/guides/01-生活AI化.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo1_dark.png"><img src="assets/demo1.png" width="395" alt="生活 AI 化示例"></picture></a>
+  <a href="邵艾伦/guides/04-百分之百相信AI.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo2_dark.png"><img src="assets/demo2.png" width="395" alt="多模型对比示例"></picture></a>
 </p>
 
 <p align="center">
@@ -43,7 +43,7 @@
 
 ## 先看这几篇
 
-把孙宇晨两期访谈里能动手的观点，做成 25 篇照着就能跑的 AI 做法。每篇带视频原话时间点、发给 Agent 的提示词和手动步骤，常用工具都在[工具总表](工具总表.md)标了实测价和国内能不能直接用。
+孙学是孙宇晨自己的一套理论，他的说法是给大脑升级操作系统。这里把孙学里能动手的观点，做成 25 篇照着就能跑的 AI 做法。每篇带视频原话时间点、发给 Agent 的提示词和手动步骤，常用工具都在[工具总表](工具总表.md)标了实测价和国内能不能直接用。
 
 | 想做什么 | 直达 | 你会拿到 |
 | --- | --- | --- |

@@ -1,7 +1,7 @@
 # 第 1 章　邵艾伦那期
 
 <p align="center">
-  <img src="../assets/covers/chapter_shao.jpg" width="360">
+  <img src="../assets/covers/chapter_shao.jpg" width="360" alt="第 1 章 邵艾伦那期">
 </p>
 
 > 简而言之就是孙学、薄肌、黄毛，三个都具备，我觉得就可以开工了。
