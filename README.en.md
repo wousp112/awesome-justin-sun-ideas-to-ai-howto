@@ -45,9 +45,9 @@
 | --- | --- |
 | Get a plan from your AI | [AGENT.md](AGENT.md). Copy it to Claude, ChatGPT, or Codex, then describe your situation. Your AI will reply in your language. |
 | Install it as a skill | Run `npx skills add wousp112/awesome-justin-sun-ideas-to-ai-howto`. It works with Claude Code, Codex, and other agents that read skills. |
-| Check the newest high-ROI guides | [1.16 Cross-border pricing](邵艾伦/guides/16-跨境差价.md) (Google One AI Ultra intro pricing) and [1.17 Free compute](邵艾伦/guides/17-免费算力.md) (Colab / ModelScope free GPUs) |
+| Check the newest high-ROI guides | [3.5 Cross-border pricing](第3章/跨境差价.md) (Google One AI Ultra intro pricing) and [1.6 Free compute](第1章/免费算力.md) (Colab / ModelScope free GPUs) |
 | See both interviews on one page | [思维导图.md](思维导图.md), the mind map (Chinese) |
-| Follow step-by-step guides | [Alan Shao guides](邵艾伦/guides/) (17) and [William Joy guides](金明/guides/) (8), with tool picks and a prompt for your agent (Chinese) |
+| Follow step-by-step guides | [Chapter 1](第1章/README.md) through [Chapter 5](第5章/README.md), 25 guides grouped by theme, with tool picks and a prompt for your agent (Chinese) |
 | Compare tools | [工具总表.md](工具总表.md), every tool in the guides with price and access in mainland China, each row dated when it was last checked (Chinese) |
 | Read the key ideas | [Alan Shao summary](邵艾伦/精华.md) and [William Joy summary](金明/精华.md), with video timestamps (Chinese) |
 | Read the full interviews | [Alan Shao transcript](邵艾伦/全文.md) and [William Joy transcript](金明/全文.md), timestamped, with a topic index and a list of corrections (Chinese) |

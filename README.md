@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="邵艾伦/guides/01-生活AI化.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo1_dark.png"><img src="assets/demo1.png" width="395" alt="生活 AI 化示例"></picture></a>
-  <a href="邵艾伦/guides/04-百分之百相信AI.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo2_dark.png"><img src="assets/demo2.png" width="395" alt="多模型对比示例"></picture></a>
+  <a href="第1章/生活AI化.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo1_dark.png"><img src="assets/demo1.png" width="395" alt="生活 AI 化示例"></picture></a>
+  <a href="第1章/百分之百相信AI.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo2_dark.png"><img src="assets/demo2.png" width="395" alt="多模型对比示例"></picture></a>
 </p>
 
 <p align="center">
@@ -47,12 +47,12 @@
 
 | 想做什么 | 直达 | 你会拿到 |
 | --- | --- | --- |
-| 找 1 折海外 AI 会员差价 | [1.16 跨境差价](邵艾伦/guides/16-跨境差价.md) | Google One AI Ultra 原价 199.99 美元/月，前三个月 19.99 的真实差价、门槛和排查法 |
-| 零成本蹭显卡跑一次性任务 | [1.17 免费算力](邵艾伦/guides/17-免费算力.md) | 用 Google Colab 或魔搭免费 GPU 跑通批量转录等重任务，结果回存云盘 |
-| 零基础搭好第一个 AI Agent | [0.1 先装一个能动你电脑的 AI](邵艾伦/guides/00-准备.md) | 装好能读本地文件的 Agent，后面 25 篇都能直接复制提示词跑 |
-| 把日常记录变成每日复盘 | [1.1 把生活 AI 化](邵艾伦/guides/01-生活AI化.md) | 一个本地文件夹加随手记，AI 每天自动写日报 |
+| 找 1 折海外 AI 会员差价 | [3.5 跨境差价](第3章/跨境差价.md) | Google One AI Ultra 原价 199.99 美元/月，前三个月 19.99 的真实差价、门槛和排查法 |
+| 零成本蹭显卡跑一次性任务 | [1.6 免费算力](第1章/免费算力.md) | 用 Google Colab 或魔搭免费 GPU 跑通批量转录等重任务，结果回存云盘 |
+| 零基础搭好第一个 AI Agent | [0.1 先装一个能动你电脑的 AI](第0章/准备.md) | 装好能读本地文件的 Agent，后面 25 篇都能直接复制提示词跑 |
+| 把日常记录变成每日复盘 | [1.1 把生活 AI 化](第1章/生活AI化.md) | 一个本地文件夹加随手记，AI 每天自动写日报 |
 | 按价格和国内可用性挑工具 | [工具总表](工具总表.md) | 全书工具一页查完，附核实日期和国内替代方案 |
-| 浏览全部 25 篇教程和原话 | [前言与完整目录](前言.md#目录) | 邵艾伦 17 节 + 金明 8 节 + 两期带时间戳全文和思维导图 |
+| 浏览全部 25 篇教程和原话 | [前言与完整目录](前言.md#目录) | 五章 25 节，加两期带时间戳全文和思维导图 |
 
 ## 装进 Agent
 
