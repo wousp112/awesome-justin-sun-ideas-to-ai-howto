@@ -33,4 +33,4 @@
 
 ---
 
-<p align="center"><a href="../邵艾伦/小结.md">← 1.16 小结</a> ｜ <a href="../前言.md#目录">目录</a> ｜ <a href="guides/01-密切关注.md">2.1 从不关注到密切关注 →</a></p>
+<p align="center"><a href="../邵艾伦/小结.md">← 1.17 小结</a> ｜ <a href="../前言.md#目录">目录</a> ｜ <a href="guides/01-密切关注.md">2.1 从不关注到密切关注 →</a></p>
