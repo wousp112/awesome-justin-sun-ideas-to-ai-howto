@@ -17,8 +17,8 @@
 </p>
 
 <p align="center">
-  <a href="第1章/生活AI化.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo1_dark.png"><img src="assets/demo1.png" width="395" alt="生活 AI 化示例"></picture></a>
-  <a href="第1章/百分之百相信AI.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo2_dark.png"><img src="assets/demo2.png" width="395" alt="多模型对比示例"></picture></a>
+  <a href="第1章/生活AI化.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo1_dark.gif"><img src="assets/demo1.gif" width="395" alt="生活 AI 化示例，按一次真实运行的记录重排的动图"></picture></a>
+  <a href="第1章/百分之百相信AI.md"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/demo2_dark.gif"><img src="assets/demo2.gif" width="395" alt="多模型对比示例，三份回答是真问来的"></picture></a>
 </p>
 
 <p align="center">
